@@ -15,5 +15,12 @@
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.7.4",
+    "@graphql-tools/mock": "^9.0.0",
+    "@graphql-tools/schema": "^10.0.0",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6"
+  }
 }
